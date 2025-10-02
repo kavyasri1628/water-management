@@ -1,2 +1,2 @@
-# water-management
-water management using ai
+# smart-water-conservation
+AI water saving website
